@@ -28,4 +28,10 @@ This will build the HTML docs in the `docs/build` directory. To view the newly g
 - Created new documentation for setting up an Amazon EC2 instance for installing Augur in reStructuredText format, which can be found in the `docs` directory.
 - Added our reflections on Sprint 3 and goals for Sprint 4
 
-**TODO: Merge our documentation with Augur's main documentation.**
+### Sprint 4 (In Progress)
+- Fixed build warnings in the documentation
+
+### TODO
+- Merge our documentation with Augur's main documentation
+- Create a video providing an overview of the project
+- Create the shell script `install_dependencies.sh` to automatically install Augur's dependencies
