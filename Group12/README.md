@@ -32,6 +32,7 @@ This will build the HTML docs in the `docs/build` directory. To view the newly g
 - Fixed build warnings in the documentation
 - Merge our documentation with Augur's main documentation
 - Create a video providing an overview of the project
+- Create the shell script `install_dependencies.sh` to automatically install Augur's dependencies
 
 ### TODO
-- Create the shell script `install_dependencies.sh` to automatically install Augur's dependencies
+- Add our reflections on Sprint 4
